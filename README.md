@@ -17,6 +17,20 @@
 
 
 <div style="display: inline_block">  
+  
+   ### Front-end 
+
+ <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+ <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
+
+ <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">  
+
+ <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">  
+  
+ <img align="center" alt="webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">  
+
+ <hr>
 
  ### Back-end
 
@@ -31,37 +45,10 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   
  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
+  
 <hr>
 
-  
-
- ### Front-end 
-
- <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
- <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
-
- <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">  
-
- <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">  
-  
- <img align="center" alt="webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">  
-
- <hr>
-
-
-
-
-  ### IDE  
-
-  
-
- <img align="center" alt="VS code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
-
-  <hr>
-
-  ### Web dev platforms
+  ### Platforms
   
  <img align="center" alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
  <img align="center" alt="Shopify" src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white">
