@@ -1,19 +1,18 @@
 
 
-
-
-## Reach me on:
+<details open>
+    <summary>Reach me on</summary>
 
 <p>
     <a href="https://www.linkedin.com/in/correiajpv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin"></a> 
   <a href="mailto:correia.jpv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"></a>
 </p> 
+</details>
 
-
-## Tech I use
-
-<div style="display: inline_block">  
-  
+<details>
+    <summary>Tech I use</summary>
+<p style="display: inline_block">  
+    
    ### FE 
 
  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -49,14 +48,17 @@
  ### Soon&trade;
    <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</details>
 
-<br/>
-
-## Stats
-
-  <a href="https://github.com/correia-jpv">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=correia-jpv&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_rank=true"/>
-  </a>
-   <a href="https://github.com/correia-jpv">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correia-jpv&layout=compact&langs_count=7&theme=github_dark"/>
-  </a>
+<details>
+<summary>GitHub stats</summary>        
+    <p>
+        <br/>
+          <a href="https://github.com/correia-jpv">
+            <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=correia-jpv&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_rank=true"/>
+          </a>
+           <a href="https://github.com/correia-jpv">
+            <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correia-jpv&layout=compact&langs_count=7&theme=github_dark"/>
+          </a>
+    </p>
+</details>
