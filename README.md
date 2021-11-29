@@ -1,12 +1,8 @@
 
-<div>
-  <a href="https://github.com/correia-jpv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=correia-jpv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correia-jpv&layout=compact&langs_count=7&theme=dark"/>
-</div> <br>
 
 
-## Find me on:
+
+## Reach me on:
 
 
 <p>
@@ -15,10 +11,11 @@
 </p> 
   <br>
 
+## Tech I use
 
 <div style="display: inline_block">  
   
-   ### Front-end 
+   ### FE 
 
  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
@@ -32,12 +29,10 @@
 
  <hr>
 
- ### Back-end
+ ### BE
 
   
  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  
- <img align="center" alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   
  <img align="center" alt="expressjs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
     
@@ -60,3 +55,14 @@
  ### Soon&trade;
    <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+<br/>
+
+## Stats
+
+  <a href="https://github.com/correia-jpv">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=correia-jpv&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_rank=true"/>
+  </a>
+   <a href="https://github.com/correia-jpv">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correia-jpv&layout=compact&langs_count=7&theme=github_dark"/>
+  </a>
