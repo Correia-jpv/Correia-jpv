@@ -1,10 +1,12 @@
-## Hey <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="25px"></a>
+### <a href="#"><img src="https://im2.ezgif.com/tmp/ezgif-2-31dc3faeba.gif" width="25px"> Hey</a>
+
 
 <details open>
     <summary>✉ Reach me on</summary>
 
 <p>
-    <a href="https://www.linkedin.com/in/correiajpv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin"></a>
+
+  <a href="https://www.linkedin.com/in/correiajpv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin"></a>
   <a href="mailto:correia.jpv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"></a>
 </p> 
 </details>
@@ -42,9 +44,8 @@
  <img align="center" alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
  <img align="center" alt="Shopify" src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white">
 
-  
- ### Soon&trade;
 ### WIP&trade;
+
    <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </details>
