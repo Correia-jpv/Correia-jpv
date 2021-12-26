@@ -1,4 +1,4 @@
-### <a href="https://github.com/Correia-jpv"> <img src="https://im2.ezgif.com/tmp/ezgif-2-31dc3faeba.gif" width="25px"> Hey </a>
+### <a href="https://github.com/Correia-jpv"> <img src="https://im2.ezgif.com/tmp/ezgif-2-31dc3faeba.gif" width="25px"></a> Hey
 
 
 <details open>
