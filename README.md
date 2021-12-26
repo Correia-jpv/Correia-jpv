@@ -1,19 +1,19 @@
-
+## Hey <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="25px"></a>
 
 <details open>
-    <summary>Reach me on</summary>
+    <summary>✉ Reach me on</summary>
 
 <p>
-    <a href="https://www.linkedin.com/in/correiajpv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin"></a> 
+    <a href="https://www.linkedin.com/in/correiajpv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin"></a>
   <a href="mailto:correia.jpv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"></a>
 </p> 
 </details>
 
 <details>
-    <summary>Tech I use</summary>
+    <summary>🛠️ Tech I use</summary>
 <p style="display: inline_block">  
-    
-   ### FE 
+
+### FE
 
  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
@@ -25,33 +25,32 @@
   
  <img align="center" alt="webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">  
 
-
- ### BE
+### BE
 
  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   
  <img align="center" alt="expressjs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-    
+
  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
   
  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">  
 
-
-  ### Platforms
+### CMS/Platforms
   
  <img align="center" alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
  <img align="center" alt="Shopify" src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white">
 
   
  ### Soon&trade;
+### WIP&trade;
    <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </details>
 
 <details>
-<summary>GitHub stats</summary>        
+<summary>📊 GitHub stats</summary>
     <p>
         <br/>
           <a href="https://github.com/correia-jpv">
@@ -62,3 +61,14 @@
           </a>
     </p>
 </details>
+
+
+<details>
+<summary>📄 Blog posts</summary>
+    <p>
+        <br/>
+        <!-- BLOG-POST-LIST:START -->
+        <!-- BLOG-POST-LIST:END -->
+    </p>
+</details>
+
