@@ -1,4 +1,4 @@
-### <a href="#"><img src="https://im2.ezgif.com/tmp/ezgif-2-31dc3faeba.gif" width="25px"> Hey</a>
+### <a href="https://github.com/Correia-jpv"> <img src="https://im2.ezgif.com/tmp/ezgif-2-31dc3faeba.gif" width="25px"> Hey </a>
 
 
 <details open>
@@ -64,11 +64,11 @@
 </details>
 
 
-<details>
+<details open>
 <summary>📄 Blog posts</summary>
-    <p>
-        <br/>
-        <!-- BLOG-POST-LIST:START -->
+<p>
+
+<!-- BLOG-POST-LIST:START -->
 - [16 useful resources to design and develop beautiful web apps](https://dev.to/correiajpv/4-lists-of-16-useful-resources-to-design-and-develop-beautiful-web-apps-2i77)
 <!-- BLOG-POST-LIST:END -->
     </p>
