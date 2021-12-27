@@ -8,7 +8,45 @@
 
   <a href="https://www.linkedin.com/in/correiajpv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin"></a>
   <a href="mailto:correia.jpv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"></a>
-</p> 
+</p>
+</details> 
+
+<details open>
+  <summary>🚀 My projects</summary>
+<p>
+  <!-- Bucket Listy IMG -->
+  <a href="https://github.com/Correia-jpv/Bucket-listy">
+    <img width="400" src="https://github.com/Correia-jpv/Bucket-Listy/blob/main/documentation/mockup-devices.png" />
+  </a>
+  <!-- Bucket Listy API IMG -->
+  <a href="https://github.com/Correia-jpv/Bucket-listy-API">
+    <img width="400" src="https://github.com/Correia-jpv/Bucket-Listy-API/blob/main/documentation/mockup-devices.png" />
+  </a>
+  <!-- Bucket Listy STATS -->
+  <a href="https://github.com/Correia-jpv/Bucket-listy">
+    <img src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=Bucket-listy&theme=github_dark" />
+  </a>
+  <!-- Bucket Listy API STATS -->
+  <a href="https://github.com/Correia-jpv/Bucket-listy-API">
+    <img src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=Bucket-listy-API&theme=github_dark" />
+  </a>  
+  <!-- Catnip Beasts IMG -->
+  <a href="https://github.com/Correia-jpv/">
+    <img width="400" src="https://github.com/Correia-jpv/CatnipBeasts/blob/main/assets/catnipbeasts-devices-mockup.jpg" />
+  </a>
+  <!-- Nomes IMG -->
+  <a href="https://github.com/Correia-jpv/">
+    <img width="400" src="https://github.com/Correia-jpv/Nomes/blob/main/Assets/Images/devices-mockup.jpg" />
+  </a>
+  <!-- Catnip Beasts STATS -->
+  <a href="https://github.com/Correia-jpv/">
+    <img src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=CatnipBeasts&theme=github_dark" />
+  </a>
+  <!-- Nomes STATS -->
+  <a href="https://github.com/Correia-jpv/">
+    <img src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=Nomes&theme=github_dark" />
+  </a>
+</p>
 </details>
 
 <details>
