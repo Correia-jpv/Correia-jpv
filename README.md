@@ -31,19 +31,19 @@
     <img src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=Bucket-listy-API&theme=github_dark" />
   </a>  
   <!-- Catnip Beasts IMG -->
-  <a href="https://github.com/Correia-jpv/">
+  <a href="https://github.com/Correia-jpv/CatnipBeasts">
     <img width="400" src="https://github.com/Correia-jpv/CatnipBeasts/blob/main/assets/catnipbeasts-devices-mockup.jpg" />
   </a>
   <!-- Nomes IMG -->
-  <a href="https://github.com/Correia-jpv/">
+  <a href="https://github.com/Correia-jpv/Nomes">
     <img width="400" src="https://github.com/Correia-jpv/Nomes/blob/main/Assets/Images/devices-mockup.jpg" />
   </a>
   <!-- Catnip Beasts STATS -->
-  <a href="https://github.com/Correia-jpv/">
+  <a href="https://github.com/Correia-jpv/CatnipBeasts">
     <img src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=CatnipBeasts&theme=github_dark" />
   </a>
   <!-- Nomes STATS -->
-  <a href="https://github.com/Correia-jpv/">
+  <a href="https://github.com/Correia-jpv/Nomes">
     <img src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=Nomes&theme=github_dark" />
   </a>
 </p>
