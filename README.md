@@ -86,6 +86,6 @@
   ## 📄 Blog posts
 
   <!-- BLOG-POST-LIST:START -->
-  - [16 useful resources to design and develop beautiful web apps](https://dev.to/correiajpv/4-lists-of-16-useful-resources-to-design-and-develop-beautiful-web-apps-2i77)
-  <!-- BLOG-POST-LIST:END -->
+- [16 useful resources to design and develop beautiful web apps](https://dev.to/correiajpv/4-lists-of-16-useful-resources-to-design-and-develop-beautiful-web-apps-2i77)
+<!-- BLOG-POST-LIST:END -->
 </div>
