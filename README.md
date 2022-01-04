@@ -80,7 +80,7 @@
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=correia-jpv&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_rank=true"/>
   </a>
     <a href="https://github.com/correia-jpv">
-    <img align="center" height="180em" src="https://github-readme-stats-snowy-mu.vercel.app/api/top-langs/?username=correia-jpv&layout=compact&langs_count=7&theme=github_dark&exclude_repo=PyCheckiO&count_private=true"/>
+    <img align="center" height="180em" src="https://github-readme-stats-snowy-mu.vercel.app/api/top-langs/?username=correia-jpv&layout=compact&langs_count=8&theme=github_dark&hide=liquid&exclude_repo=PyCheckiO&include_private=true&include_forks=true"/>
   </a>
 
   ## 📄 Blog posts
