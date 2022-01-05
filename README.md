@@ -31,7 +31,7 @@
   <br/>
   <!-- Catnip Beasts IMG -->
   <a href="https://github.com/Correia-jpv/CatnipBeasts">
-    <img width="45%" src="https://github.com/Correia-jpv/CatnipBeasts/blob/main/assets/catnipbeasts-devices-mockup.jpg" />
+    <img width="45%" src="https://github.com/Correia-jpv/CatnipBeasts/blob/main/documentation/screenshots/catnipbeasts-devices-mockup.jpg" />
   </a>
   &nbsp;&nbsp;
   <!-- Nomes IMG -->
