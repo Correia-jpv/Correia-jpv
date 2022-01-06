@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/api/articles?username=correiajpv"
+          feed_list: "https://dev.to/feed/correiajpv"
           custom_tags: "cover_image/cover_image/,published_at/published_at/,edited_at/edited_at/"
           description_max_length: 70
           commit_message: 📕 Updated blog posts
