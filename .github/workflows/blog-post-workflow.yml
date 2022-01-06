@@ -12,3 +12,10 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/correiajpv"
+          template: <p align="left">
+                    <a href="$url" title="$title"><img src="$cover_image" alt="$title" width="250px" align="right" /></a>
+                    <a href="$url" title="$title"><strong>$title</strong></a>
+                    <div><strong>$published_at</strong> | <strong>$edited_at</strong></div>
+                    <br/>
+                    $description
+                    </p><br/><br/>
