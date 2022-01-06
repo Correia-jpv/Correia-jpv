@@ -92,9 +92,5 @@
   ## 📄 Blog posts
 
   <!-- BLOG-POST-LIST:START -->
- 🤔 [16 useful resources to design and develop beautiful web apps](url) - &lt;h2&gt;
-  &lt;a href=&quot;#learn-amp-master&quot;&gt;
-  &lt;/a&gt;
-  Learn &amp;amp; Master 📑
-&lt;/h2...<!-- BLOG-POST-LIST:END -->
+ 🤔 [16 useful resources to design and develop beautiful web apps](url)<!-- BLOG-POST-LIST:END -->
 </div>
