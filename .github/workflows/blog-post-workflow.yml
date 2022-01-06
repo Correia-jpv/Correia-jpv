@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '0 */8 * * *' # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-blog:
@@ -12,10 +12,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/correiajpv"
-          template: <p align="left">
-                    <a href="$url" title="$title"><img src="$cover_image" alt="$title" width="250px" align="right" /></a>
-                    <a href="$url" title="$title"><strong>$title</strong></a>
-                    <div><strong>$published_at</strong> | <strong>$edited_at</strong></div>
-                    <br/>
-                    $description
-                    </p><br/><br/>
+          custom_tags: "cover_image/cover_image/,published_at/published_at/,edited_at/edited_at/"
+          description_max_length: 70
+          commit_message: 📕 Updated blog posts
+          template: $newline $randomEmoji(🔥,🚀,👨‍💻,🐱‍🏍,✨,⚡,💥,🤔,💭,🐱‍💻,🐱‍👤) [$title](url) - $description
