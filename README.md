@@ -1,51 +1,62 @@
 <div align="center">
   
-  ## <a href="https://github.com/Correia-jpv"> <img src="https://github.com/Correia-jpv/Correia-jpv/blob/main/hey.gif" width="20px"></a>  Hi there, reach me on
-
-  <a href="https://www.linkedin.com/in/correiajpv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin"></a>
-  <a href="mailto:correia.jpv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"></a>
+  ### <a href="https://github.com/Correia-jpv"> <img src="https://github.com/Correia-jpv/Correia-jpv/blob/main/hey.gif" width="20px"></a>  Hi there, reach me on
+  <a href="https://www.linkedin.com/in/correiajpv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin"></a>   <a href="mailto:correia.jpv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 
 
   ## 🚀 My projects
   <!-- Bucket Listy IMG -->
-  <a href="https://github.com/Correia-jpv/Bucket-listy">
+  <a href="https://github.com/Correia-jpv/Bucket-listy#readme">
     <img width="45%" src="https://github.com/Correia-jpv/Bucket-Listy/blob/main/documentation/mockup-devices.png" />
   </a>
   &nbsp;
   <!-- Bucket Listy API IMG -->
-  <a href="https://github.com/Correia-jpv/Bucket-listy-API">
+  <a href="https://github.com/Correia-jpv/Bucket-listy-API#readme">
     <img width="45%" src="https://github.com/Correia-jpv/Bucket-Listy-API/blob/main/documentation/mockup-devices.png" />
   </a>
   <!-- Bucket Listy STATS -->
-  <a href="https://github.com/Correia-jpv/Bucket-listy">
+  <a href="https://github.com/Correia-jpv/Bucket-listy#readme">
     <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=Bucket-listy&theme=github_dark" />
   </a>
   &nbsp;
   <!-- Bucket Listy API STATS -->
-  <a href="https://github.com/Correia-jpv/Bucket-listy-API">
+  <a href="https://github.com/Correia-jpv/Bucket-listy-API#readme">
     <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=Bucket-listy-API&theme=github_dark" />
   </a>  
   <br/>
   <br/>
   <!-- Catnip Beasts IMG -->
-  <a href="https://github.com/Correia-jpv/CatnipBeasts">
+  <a href="https://github.com/Correia-jpv/CatnipBeasts#readme">
     <img width="45%" src="https://github.com/Correia-jpv/CatnipBeasts/blob/main/documentation/screenshots/catnipbeasts-devices-mockup.jpg" />
   </a>
   &nbsp;&nbsp;
   <!-- Nomes IMG -->
-  <a href="https://github.com/Correia-jpv/Nomes">
+  <a href="https://github.com/Correia-jpv/Nomes#readme">
     <img width="45%" src="https://github.com/Correia-jpv/Nomes/blob/main/Assets/Images/devices-mockup.jpg" />
   </a>
   <!-- Catnip Beasts STATS -->
-  <a href="https://github.com/Correia-jpv/CatnipBeasts">
+  <a href="https://github.com/Correia-jpv/CatnipBeasts#readme">
     <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=CatnipBeasts&theme=github_dark" />
   </a>
   &nbsp;&nbsp;
   <!-- Nomes STATS -->
-  <a href="https://github.com/Correia-jpv/Nomes">
+  <a href="https://github.com/Correia-jpv/Nomes#readme">
     <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=Nomes&theme=github_dark" />
   </a>
 
+  
+  ## ⚡ Contributions
+  
+  <!-- pagespeed-insights-to-svg STATS -->
+  <a href="https://github.com/Correia-jpv/pagespeed-insights-to-svg#readme">
+    <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=pagespeed-insights-to-svg&theme=github_dark" />
+  </a>
+  &nbsp;
+  <!-- github-readme-stats STATS -->
+  <a href="https://github.com/Correia-jpv/github-readme-stats#demo">
+    <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=github-readme-stats&theme=github_dark" />
+  </a>  
+  
 
   ## 🛠️ Tech I use
   <h3> Front-end </h3>
