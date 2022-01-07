@@ -1,8 +1,6 @@
 <div align="center">
-
-  ### <a href="https://github.com/Correia-jpv"> <img src="https://github.com/Correia-jpv/Correia-jpv/blob/main/hey.gif" width="20px"></a>  Hey
-
-  ## ✉ Reach me on
+  
+  ## <a href="https://github.com/Correia-jpv"> <img src="https://github.com/Correia-jpv/Correia-jpv/blob/main/hey.gif" width="20px"></a>  Hi there, reach me on
 
   <a href="https://www.linkedin.com/in/correiajpv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin"></a>
   <a href="mailto:correia.jpv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"></a>
@@ -69,6 +67,7 @@
     <p>
       <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
       <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+      <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB">
     </p>
   <h3> CMS/Platforms </h3>
     <p>
