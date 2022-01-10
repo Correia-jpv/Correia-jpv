@@ -32,7 +32,7 @@
   &nbsp;&nbsp;
   <!-- Nomes IMG -->
   <a href="https://github.com/Correia-jpv/Nomes#readme">
-    <img width="45%" src="https://github.com/Correia-jpv/Nomes/blob/main/Assets/Images/devices-mockup.jpg" />
+    <img width="45%" src="https://github.com/Correia-jpv/Nomes/blob/main/documentation/screenshots/devices-mockup.jpg" />
   </a>
   <!-- Catnip Beasts STATS -->
   <a href="https://github.com/Correia-jpv/CatnipBeasts#readme">
