@@ -3,8 +3,24 @@
   ### <a href="https://github.com/Correia-jpv"> <img src="https://github.com/Correia-jpv/Correia-jpv/blob/main/hey.gif" width="20px"></a>  Hi there, reach me on
   <a href="https://www.linkedin.com/in/correiajpv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin"></a>   <a href="mailto:correia.jpv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 
+  ## ⚡ Useful tools
+  
+  <!-- github follow bot STATS -->
+  <a href="https://github.com/Correia-jpv/github-follow-bot#readme">
+    <img width="31%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=github-follow-bot&theme=github_dark" />
+  </a> &nbsp;
+  <!-- pagespeed-insights-to-svg STATS -->
+  <a href="https://github.com/Correia-jpv/pagespeed-insights-to-svg#readme">
+    <img width="31%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=pagespeed-insights-to-svg&theme=github_dark" />
+  </a>
+  &nbsp;
+  <!-- github-readme-stats STATS -->
+  <a href="https://github.com/Correia-jpv/github-readme-stats#demo">
+    <img width="31%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=github-readme-stats&theme=github_dark" />
+  </a>  
 
-  ## 🚀 My projects
+
+  ## 🚀 My web apps
   <!-- Bucket Listy IMG -->
   <a href="https://github.com/Correia-jpv/Bucket-listy#readme">
     <img width="45%" src="https://github.com/Correia-jpv/Bucket-Listy/blob/main/documentation/mockup-devices.png" />
@@ -43,19 +59,6 @@
   <a href="https://github.com/Correia-jpv/Nomes#readme">
     <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=Nomes&theme=github_dark" />
   </a>
-
-  
-  ## ⚡ Contributions
-  
-  <!-- pagespeed-insights-to-svg STATS -->
-  <a href="https://github.com/Correia-jpv/pagespeed-insights-to-svg#readme">
-    <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=pagespeed-insights-to-svg&theme=github_dark" />
-  </a>
-  &nbsp;
-  <!-- github-readme-stats STATS -->
-  <a href="https://github.com/Correia-jpv/github-readme-stats#demo">
-    <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=github-readme-stats&theme=github_dark" />
-  </a>  
   
 
   ## 🛠️ Tech I use
