@@ -7,16 +7,16 @@
   
   <!-- github follow bot STATS -->
   <a href="https://github.com/Correia-jpv/github-follow-bot#readme">
-    <img width="31%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=github-follow-bot&theme=github_dark" />
-  </a> &nbsp;
+    <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=github-follow-bot&theme=github_dark" />
+  </a>
+  <p></p>
   <!-- pagespeed-insights-to-svg STATS -->
   <a href="https://github.com/Correia-jpv/pagespeed-insights-to-svg#readme">
-    <img width="31%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=pagespeed-insights-to-svg&theme=github_dark" />
-  </a>
-  &nbsp;
+    <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=pagespeed-insights-to-svg&theme=github_dark" />
+  </a>&nbsp;&nbsp;&nbsp;
   <!-- github-readme-stats STATS -->
   <a href="https://github.com/Correia-jpv/github-readme-stats#demo">
-    <img width="31%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=github-readme-stats&theme=github_dark" />
+    <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=github-readme-stats&theme=github_dark" />
   </a>  
 
 
@@ -25,7 +25,7 @@
   <a href="https://github.com/Correia-jpv/Bucket-listy#readme">
     <img width="45%" src="https://github.com/Correia-jpv/Bucket-Listy/blob/main/documentation/mockup-devices.png" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <!-- Bucket Listy API IMG -->
   <a href="https://github.com/Correia-jpv/Bucket-listy-API#readme">
     <img width="45%" src="https://github.com/Correia-jpv/Bucket-Listy-API/blob/main/documentation/mockup-devices.png" />
@@ -34,7 +34,7 @@
   <a href="https://github.com/Correia-jpv/Bucket-listy#readme">
     <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=Bucket-listy&theme=github_dark" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <!-- Bucket Listy API STATS -->
   <a href="https://github.com/Correia-jpv/Bucket-listy-API#readme">
     <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=Bucket-listy-API&theme=github_dark" />
@@ -45,7 +45,7 @@
   <a href="https://github.com/Correia-jpv/CatnipBeasts#readme">
     <img width="45%" src="https://github.com/Correia-jpv/CatnipBeasts/blob/main/documentation/screenshots/catnipbeasts-devices-mockup.jpg" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <!-- Nomes IMG -->
   <a href="https://github.com/Correia-jpv/Nomes#readme">
     <img width="45%" src="https://github.com/Correia-jpv/Nomes/blob/main/documentation/screenshots/devices-mockup.jpg" />
@@ -54,7 +54,7 @@
   <a href="https://github.com/Correia-jpv/CatnipBeasts#readme">
     <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=CatnipBeasts&theme=github_dark" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <!-- Nomes STATS -->
   <a href="https://github.com/Correia-jpv/Nomes#readme">
     <img width="45%" src="https://github-readme-stats-snowy-mu.vercel.app/api/pin/?username=correia-jpv&repo=Nomes&theme=github_dark" />
