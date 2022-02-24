@@ -105,6 +105,8 @@
   ## 📄 Blog posts
 
   <!-- BLOG-POST-LIST:START -->
+ 
  🤔 [How to farm GitHub followers on autopilot](url)
+ 
  🐱‍👤 [16 useful resources to design and develop beautiful web apps](url)<!-- BLOG-POST-LIST:END -->
 </div>
