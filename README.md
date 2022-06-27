@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### <a href="https://github.com/Correia-jpv"> <img src="https://github.com/Correia-jpv/Correia-jpv/blob/main/hey.gif" width="20px"></a>  Hi there, reach me on
+  ### <a href="https://github.com/Correia-jpv"> <img src="https://github.com/Correia-jpv/Correia-jpv/blob/main/hey.gif" width="20"></a>  Hi there, reach me on
   <a href="https://www.linkedin.com/in/correiajpv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin"></a>   <a href="mailto:correia.jpv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 
 ## 🚀 My web apps
