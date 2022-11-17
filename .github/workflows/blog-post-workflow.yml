@@ -15,4 +15,4 @@ jobs:
           custom_tags: "cover_image/cover_image/,published_at/published_at/,edited_at/edited_at/"
           description_max_length: 70
           commit_message: 📕 Updated blog posts
-          template: $newline $newline $randomEmoji(🔥,🚀,👨‍💻,🐱‍🏍,✨,⚡,💥,🤔,💭,🐱‍💻,🐱‍👤) [$title](url)
+          template: $newline $newline $randomEmoji(🔥,🚀,👨‍💻,🐱‍🏍,✨,⚡,💥,🤔,💭,🐱‍💻,🐱‍👤) [$title]($url)
