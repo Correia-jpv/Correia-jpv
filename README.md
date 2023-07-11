@@ -75,7 +75,7 @@
  
  🤔 [ChatGPT Notification: A Chrome Extension for Convenient Output Notifications](https://dev.to/correiajpv/chatgpt-notification-a-chrome-extension-for-convenient-output-notifications-25cl)
  
- 🐱‍👤 [How to be followed on GitHub without hassle](https://dev.to/correiajpv/how-to-farm-github-followers-on-autopilot-4dcm)
+ 🐱‍👤 [Get more eyes on your GitHub work without hassle](https://dev.to/correiajpv/how-to-farm-github-followers-on-autopilot-4dcm)
  
  🤔 [16 useful resources to design and develop beautiful web apps](https://dev.to/correiajpv/4-lists-of-16-useful-resources-to-design-and-develop-beautiful-web-apps-2i77)<!-- BLOG-POST-LIST:END -->
 </div>
